@@ -1,0 +1,17 @@
+.maintable {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  border-collapse:separate;
+  border-spacing: 20px 20px;
+  border: 1px solid black;
+
+}
+td {
+  width: 200px;
+  height: 200px;
+}
+
+img {
+width: 300px;
+}
